@@ -83,7 +83,7 @@ body{
     font-family: "Raleway",sans-serif;
     line-height: 1.16;
     font-size: 18px;
-    text-transform:uppercase;
+    text-transform: uppercase;
     color: #2e2f42;
     letter-spacing:0.03em;
     font-weight: 700;
@@ -92,7 +92,7 @@ body{
 .logo-second-part:active,
 .logo-second-part:focus,
 {
-    color:#2e2f42;
+    color: #2e2f42;
 }
 .logo:hover,
 .logo:active,
